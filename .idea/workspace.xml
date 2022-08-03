@@ -8,6 +8,7 @@
       <change beforePath="$PROJECT_DIR$/counter.py" beforeDir="false" afterPath="$PROJECT_DIR$/counter.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/removeFile.py" beforeDir="false" afterPath="$PROJECT_DIR$/removeFile.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/removeNoiseImage.py" beforeDir="false" afterPath="$PROJECT_DIR$/removeNoiseImage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/splitDatasets.py" beforeDir="false" afterPath="$PROJECT_DIR$/splitDatasets.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
