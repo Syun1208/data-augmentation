@@ -40,9 +40,9 @@ def main(path_to_data, path_to_test_data, train_ratio):
 def parse_args():
     parser = argparse.ArgumentParser(description="Dataset divider")
     parser.add_argument("--data_path", required=False,
-                        help="Path to data", default='D:\\Downloads\\mnist\\mnist\\train')
+                        help="Path to data", default='E:\\mnist\\train')
     parser.add_argument("--test_data_path_to_save", required=False,
-                        help="Path to test data where to save", default='D:\\Downloads\\mnist\\mnist\\val')
+                        help="Path to test data where to save", default='E:\\mnist\\val')
     parser.add_argument("--train_ratio", required=False,
                         help="Train ratio - 0.7 means splitting data in 70 % train and 30 % test", default=0.7)
     return parser.parse_args()
