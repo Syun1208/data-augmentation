@@ -1,5 +1,6 @@
 from multiprocessing.dummy import Lock
 
+
 class Counter:
     def __init__(self):
         self.lock = Lock()
@@ -26,4 +27,5 @@ class Counter:
 
     def get(self):
         with self.lock:
-            return {'processed' : self._processed, 'error' : self._error, 'skipped_no_match' : self._skipped_no_match, 'skipped_augmented' : self._skipped_augmented}
+            return {'processed': self._processed, 'error': self._error, 'skipped_no_match': self._skipped_no_match,
+                    'skipped_augmented': self._skipped_augmented}

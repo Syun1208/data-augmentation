@@ -8,7 +8,7 @@ dim = (width, height)
 i = 0
 j = 0
 k = 0
-img_dir0 = 'E:\\mnist\\train\\9'
+img_dir0 = 'E:\\mnist\\train\\0'
 for f in os.listdir(img_dir0):
     img_path = os.path.join(img_dir0, f)
     img = cv2.imread(img_path, cv2.IMREAD_UNCHANGED)
@@ -27,3 +27,5 @@ print('Invalid file: ', j)
 print('Valid file: ', k)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
+
+

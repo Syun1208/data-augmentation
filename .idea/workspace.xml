@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8414698b-a149-45ee-814d-7a273e185c2c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/check'.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/check'.py" beforeDir="false" afterPath="$PROJECT_DIR$/check'.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/counter.py" beforeDir="false" afterPath="$PROJECT_DIR$/counter.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/removeFile.py" beforeDir="false" afterPath="$PROJECT_DIR$/removeFile.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/splitDatasets.py" beforeDir="false" afterPath="$PROJECT_DIR$/splitDatasets.py" afterDir="false" />
     </list>
